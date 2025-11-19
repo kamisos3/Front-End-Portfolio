@@ -1,0 +1,1 @@
+The HBnB platform is a web app clone of the Airbnb platform required by Holberton Coding School intensive program. This project was developed solo using HTML, CSS and JavaScript for the front-end; while the back-end used Python, MySQL and Flask. Please visit https://github.com/kamisos3/holbertonschool-hbnb to learn more about this project.
